@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 财富包
 
-You can use the [editor on GitHub](https://github.com/zzzlift/caifubao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 简介
+“财富包”是将数据挖掘、机器学习研究成果落地到“金融券商”和“股票基金”两个垂直领域的应用，数字化分析板块、个股的买卖持仓，并且提示风险。他利用国际上最先进的数据挖掘、机器学习、知识图谱技术，集成互联网上的多源数据。从多个方面对股民的投资策略提出建议，缓解踩雷当韭菜的风险，提升生活质量，实现共同富裕。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 下载安装
+[点我进入App store]()
 
-### Markdown
+### 使用教程
+[视频演示]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzzlift/caifubao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 技术支持和联系
+email zhyxhys@163.com
