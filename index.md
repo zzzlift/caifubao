@@ -11,5 +11,7 @@
 
 [视频演示.part2](caifubao.Part2.mp4)
 
+[视频演示.part3](caifubao.Part3.mp4)
+
 ### 技术支持和联系
 email zhyxhys@163.com
